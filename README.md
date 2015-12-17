@@ -1,2 +1,4 @@
 # practicalgit
-A
+<<<<<<< HEAD
+A B
+>>>>>>> feature/b
