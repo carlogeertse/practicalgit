@@ -4,3 +4,4 @@ New line
 Third line
 Third changed line
 Fourth changed line
+Fifth changed line
