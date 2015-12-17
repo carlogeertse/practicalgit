@@ -1,7 +1,7 @@
 # practicalgit
-A B
-New line
-Third line
-Third changed line
-Fourth changed line
-Fifth changed line
+A B \n
+New line \n
+Third line\n
+Third changed line\n
+Fourth changed line\n
+Fifth changed line\n
